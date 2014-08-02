@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # Newer Messages Editor - Edits NewerSMBW's messages.bin
-# Version 1.1
+# Version 1.2
 # Copyright (C) 2013-2014 RoadrunnerWMC
 
 # This file is part of Newer Messages Editor.
