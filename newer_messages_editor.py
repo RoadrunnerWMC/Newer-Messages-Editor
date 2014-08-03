@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # Newer Messages Editor - Edits NewerSMBW's messages.bin
-# Version 1.2
+# Version 1.3
 # Copyright (C) 2013-2014 RoadrunnerWMC
 
 # This file is part of Newer Messages Editor.
@@ -30,7 +30,7 @@
 ################################################################
 
 
-version = '1.2'
+version = '1.3'
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sys

@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # Newer Messages Editor - Edits NewerSMBW's messages.bin
-# Version 1.2
+# Version 1.3
 # Copyright (C) 2013-2014 RoadrunnerWMC
 
 # This file is part of Newer Messages Editor.
@@ -25,8 +25,8 @@
 # Builds Newer Messages Editor to a Windows binary (*.exe)
 # Use the values below to configure the release:
 
-PackageName = 'nme_1.2_win32'
-Version = '1.2' # This must be a valid float in string format
+PackageName = 'nme_1.3_win32'
+Version = '1.3' # This must be a valid float in string format
 
 
 ################################################################
